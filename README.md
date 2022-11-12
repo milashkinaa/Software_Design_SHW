@@ -1,4 +1,4 @@
 # Software_Design_SHW
-Home seminar assignments on the discipline "Software Design"
+Семинарские домашние задания по дисциплине "Конструирование программного обеспечения"
 
 * [Семинар 1](https://github.com/milashkinaa/Software_Design_SHW/tree/main/Seminar1)
